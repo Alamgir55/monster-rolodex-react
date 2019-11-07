@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Alamgir55.github.io/monster-rolodex-react/static/css/main.19b2610d.chunk.css",
-    "main.js": "/Alamgir55.github.io/monster-rolodex-react/static/js/main.e4fb913b.chunk.js",
-    "main.js.map": "/Alamgir55.github.io/monster-rolodex-react/static/js/main.e4fb913b.chunk.js.map",
-    "runtime-main.js": "/Alamgir55.github.io/monster-rolodex-react/static/js/runtime-main.88aa8ff1.js",
-    "runtime-main.js.map": "/Alamgir55.github.io/monster-rolodex-react/static/js/runtime-main.88aa8ff1.js.map",
-    "static/js/2.b0265b97.chunk.js": "/Alamgir55.github.io/monster-rolodex-react/static/js/2.b0265b97.chunk.js",
-    "static/js/2.b0265b97.chunk.js.map": "/Alamgir55.github.io/monster-rolodex-react/static/js/2.b0265b97.chunk.js.map",
-    "index.html": "/Alamgir55.github.io/monster-rolodex-react/index.html",
-    "precache-manifest.faffdca2947150664667f5fcfcff2314.js": "/Alamgir55.github.io/monster-rolodex-react/precache-manifest.faffdca2947150664667f5fcfcff2314.js",
-    "service-worker.js": "/Alamgir55.github.io/monster-rolodex-react/service-worker.js",
-    "static/css/main.19b2610d.chunk.css.map": "/Alamgir55.github.io/monster-rolodex-react/static/css/main.19b2610d.chunk.css.map"
+    "main.css": "/monster-rolodex-react/static/css/main.19b2610d.chunk.css",
+    "main.js": "/monster-rolodex-react/static/js/main.8e3abd09.chunk.js",
+    "main.js.map": "/monster-rolodex-react/static/js/main.8e3abd09.chunk.js.map",
+    "runtime-main.js": "/monster-rolodex-react/static/js/runtime-main.9ee6f124.js",
+    "runtime-main.js.map": "/monster-rolodex-react/static/js/runtime-main.9ee6f124.js.map",
+    "static/js/2.b0265b97.chunk.js": "/monster-rolodex-react/static/js/2.b0265b97.chunk.js",
+    "static/js/2.b0265b97.chunk.js.map": "/monster-rolodex-react/static/js/2.b0265b97.chunk.js.map",
+    "index.html": "/monster-rolodex-react/index.html",
+    "precache-manifest.a62e8112d40c6445282c86001a4030ec.js": "/monster-rolodex-react/precache-manifest.a62e8112d40c6445282c86001a4030ec.js",
+    "service-worker.js": "/monster-rolodex-react/service-worker.js",
+    "static/css/main.19b2610d.chunk.css.map": "/monster-rolodex-react/static/css/main.19b2610d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.88aa8ff1.js",
+    "static/js/runtime-main.9ee6f124.js",
     "static/js/2.b0265b97.chunk.js",
     "static/css/main.19b2610d.chunk.css",
-    "static/js/main.e4fb913b.chunk.js"
+    "static/js/main.8e3abd09.chunk.js"
   ]
 }
