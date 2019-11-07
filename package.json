@@ -2,7 +2,7 @@
   "name": "monster-rolodex-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Alamgir55.github.io/monster-rolodex-react",
+  "homepage": "https://Alamgir55.github.io/monster-rolodex-react",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
